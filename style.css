@@ -6,7 +6,6 @@ body {
 	padding: 0; 
 	font-family: 'Poppins', sans-serif; 
 } 
-/* Header Navbar Styles */
 .navbar { 
 	display: flex; 
 	align-items: center; 
@@ -48,11 +47,6 @@ body {
 .menu-list .menu-list-items { 
 	padding: 0.5rem 1rem; 
 } 
-
-
-
-
-/* Main Hero Section Styles */
 .hero { 
 	background-image: url('https://wallpaperaccess.com/full/5652030.jpg'); 
 	background-repeat: no-repeat; 
@@ -71,7 +65,6 @@ body {
 	width: 60vw;
 	display: flex;
 } 
-/* About section styles */
 .about { 
 	display: flex; 
 	align-items: center; 
@@ -281,5 +274,6 @@ body {
 .blue-text { 
 	color: #363D73; 
 }
+
 
 
